@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RestApp.Data.Queries
+namespace RestApp.Domain.Queries
 {
-    public class PosQuery
+    public interface IAnalyticsQuery
     {
         
     }

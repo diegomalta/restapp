@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace RestApp.Api.Services
 {
-    public class PosService
+    public class AnalyticsService
     {
-        
+        public AnalyticsService()
+        {
+
+        }
     }
 }
